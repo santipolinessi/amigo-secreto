@@ -1,5 +1,5 @@
 <div align='center'>
-# Amigo Secreto - Web App
+Amigo Secreto - Web App
 Aplicación Web que recibe el nombre de amigos y los sortea aleatoriamente.
 
 [🌐 Demo en vivo]() ·
@@ -26,12 +26,17 @@ Aplicación Web que recibe el nombre de amigos y los sortea aleatoriamente.
 ## Capturas
 
 <p align="center">
-  <img src= alt="Vista del banner" width="420">
+  <img width="420" alt="inicio" src="https://github.com/user-attachments/assets/9ac7205c-c944-46a8-abb8-f2c0512bc7cb" />
 </p>
 <p align="center">
-  <img src="" alt="Vista del banner" width="420">
+  <img width="420" alt="nombres" src="https://github.com/user-attachments/assets/978314e1-c638-4b0b-81c8-bfa8f4bd6274" />
+</p>
+<p align="center">
+ <img width="420" alt="sorteo" src="https://github.com/user-attachments/assets/72fe10f4-966d-4bc1-b8ae-631564037e80" />
 </p>
    
+
+
 
 
 
