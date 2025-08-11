@@ -34,8 +34,32 @@ Aplicación Web que recibe el nombre de amigos y los sortea aleatoriamente.
 <p align="center">
  <img width="420" alt="sorteo" src="https://github.com/user-attachments/assets/72fe10f4-966d-4bc1-b8ae-631564037e80" />
 </p>
-   
 
+## Instalación y ejecución local
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/santipolinessi/amigo-secreto
+   ```
+
+2. Navegar al directorio del proyecto:
+
+   ```bash
+   cd amigo-secreto
+   ```
+
+3. Abrir el archivo HTML en tu navegador:
+   ```bash
+   open index.html
+   # o simplemente haz doble clic en el archivo
+   ```
+   
+##  Autor
+
+**Santiago Polinessi — santipolinessi**
+
+- GitHub: https://github.com/santipolinessi
 
 
 
